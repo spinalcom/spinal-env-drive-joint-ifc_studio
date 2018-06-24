@@ -9,12 +9,20 @@
     "create_drive_env": "create_drive_env  -m"
   },
   "dependencies": {
+    "spinal-browser-ifc_studio": "git+https://github.com/spinalcom/spinal-browser-ifc_studio.git",
     "spinal-env-drive-plugin-base": "git+https://github.com/spinalcom/spinal-env-drive-plugin-base.git",
     "spinal-env-drive-core": "git+https://github.com/spinalcom/spinal-env-drive-core.git",
-    "spinal-env-drive-plugin-ifc_studio": "git+https://github.com/spinalcom/spinal-env-drive-plugin-ifc_studio.git",
-    "spinal-browser-ifc_studio": "git+https://github.com/spinalcom/spinal-browser-ifc_studio.git"
+    "spinal-env-drive-plugin-ifc_studio": "git+https://github.com/spinalcom/spinal-env-drive-plugin-ifc_studio.git"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spinalcom/spinal-env-drive-joint-ifc_studio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/spinalcom/spinal-env-drive-joint-ifc_studio/issues"
+  },
+  "homepage": "https://github.com/spinalcom/spinal-env-drive-joint-ifc_studio#readme"
 }
